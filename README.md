@@ -3,6 +3,7 @@ List of Generative AI Use Cases
 
 ## List of References to Process
 
+* [Find the right Use Case for your Project or Business](https://aidesigntools.softr.app/) 
 * [The landscape of generative AI landscape reports | by Ramsri Goutham | Jan, 2023 | Medium](https://ramsrigoutham.medium.com/the-landscape-of-generative-ai-landscape-reports-615a417b15d) 
 * [AI 100: The most promising artificial intelligence startups of 2022 - CB Insights Research](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2022/)
 * [Generative AI 100 usecase. (Using deepL I translate below blog… | by Shunsuke Nakaji | Feb, 2023 | Medium](https://medium.com/@nkz.0814/generative-ai-100-usecase-d37a4ef42dad) 
